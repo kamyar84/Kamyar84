@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamyar</h1>
-<h3 align="center">I'm a study computer engineering</h3>
+<h3 align="center">I'm  study computer engineering</h3>
 
 - 🔭 I’m currently working on **some tasks to practice**
 
